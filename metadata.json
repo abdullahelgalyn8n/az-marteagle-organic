@@ -1,0 +1,6 @@
+{
+  "name": "Marteagle — متجر مارت إيجل للمنتجات العضوية",
+  "description": "متجر مارت إيجل للمنتجات العضوية والطبيعية الطازجة من المزرعة مباشرة بأعلى معايير الجودة وأفضل الأسعار.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
